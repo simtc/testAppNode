@@ -1,0 +1,20 @@
+{
+  "name": "testappnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simtc/testAppNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simtc/testAppNode/issues"
+  },
+  "homepage": "https://github.com/simtc/testAppNode#readme"
+}
